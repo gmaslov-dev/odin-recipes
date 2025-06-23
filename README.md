@@ -30,9 +30,11 @@ The project consists of a homepage (`index.html`) containing links to individual
 odin-recipes/
 ├── index.html
 ├── recipes/
-│   ├── lasagna.html
-│   ├── pizza.html
-│   └── salad.html
+│   ├── hot-dog.html
+│   ├── kebab.html
+│   └── salmon.html
+├── images/
+│   └── ...
 └── README.md
 ```
 
@@ -40,9 +42,7 @@ odin-recipes/
 
 The project is published here:
 
-👉 [your-github-username.github.io/odin-recipes](https://your-github-username.github.io/odin-recipes)
-
-> *Replace `your-github-username` with your actual GitHub username.*
+👉 [your-github-username.github.io/odin-recipes](https://gmaslov-dev.github.io/odin-recipes/index.html)
 
 ## ✅ Project Requirements
 
@@ -72,9 +72,6 @@ open index.html
 4. Click **Save** and wait a few minutes — your site will be published at:  
    `https://your-github-username.github.io/odin-recipes/`
 
-## 📸 Screenshots
-
-_(You can add screenshots of your pages here if desired)_
 
 ---
 
